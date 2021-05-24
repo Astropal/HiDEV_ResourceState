@@ -3,8 +3,7 @@ A Resource starter for the FAS solution in HiDEV services.
 This resource scans a specific folder to automatically start your resources without having to manually add them to your CFX server configuration
 
 ## Installation
-In your "server-data" folder, clone or import the folder "
-HiDEV_LoadingScreen" folder into a top resource folder and create a "[HiDEV_addons]" folder 
+In your "server-data" folder, clone or import the folder "HiDEV_ResourceState" folder into a top resource folder and create a "[HiDEV_addons]" folder 
 
 Add the following line to your "server.cfg" below the default resources
 ```
